@@ -1,0 +1,26 @@
+.App {
+  font-family: sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.grey_bg {
+  background-color: rgb(202, 202, 202);
+  margin-bottom: 10px;
+  width: 200px;
+  height: 200px;
+  border-radius: 5%;
+  border: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.Count_button {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  border: none;
+}
+.button {
+  background-color: yellow;
+}
